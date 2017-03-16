@@ -1,4 +1,4 @@
-teams: [
+{ teams: [
     {
         id: 66,
         name: "Manchester United FC",
@@ -160,4 +160,5 @@ teams: [
         crestUrl: "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
     }
 ]
+}
   
