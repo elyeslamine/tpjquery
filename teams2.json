@@ -13,7 +13,7 @@
         "code": "PSG",
         "shortName": "PSG",
         "squadMarketValue": "412,650,000 €",
-        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/1/1e/Paris_Saint-Germain_(seit_2013).gif"
+        "crestUrl": "https://billetterie.psg.fr/sites/billetterie.psg.fr/files/paris_saint-germain_f.c._0.png"
     },
     {
         "id":531,
@@ -21,7 +21,7 @@
         "code": null,
         "shortName": "Troyes",
         "squadMarketValue": "23,500,000 €",
-        "crestUrl": "https://upload.wikimedia.org/wikipedia/fr/b/bf/ES_Troyes_AC.svg"
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/1200px-ES_Troyes_AC.svg.png"
     },
     {
         "id":555,
@@ -53,7 +53,7 @@
         "code": "NIC",
         "shortName": "Nice",
         "squadMarketValue": "72,500,000 €",
-        "crestUrl": "https://upload.wikimedia.org/wikipedia/de/4/40/OGC_Nice_Logo.svg"
+        "crestUrl": "https://fr.wikipedia.org/wiki/Olympique_Gymnaste_Club_Nice_C%C3%B4te_d'Azur#/media/File:OGC_Nice_Logo.png"
     },
     {
         "id":548,
