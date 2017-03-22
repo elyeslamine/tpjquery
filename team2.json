@@ -1,0 +1,163 @@
+{ "teams": [
+    {
+        "id":521,
+        "name": "OSC Lille",
+        "code": "OSC",
+        "shortName": "Lille",
+        "squadMarketValue": "52,600,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/08/LOSC_Lille_Crest_2012.png"
+    },
+    {
+        "id":524, 
+        "name": "Paris Saint-Germain",
+        "code": "PSG",
+        "shortName": "PSG",
+        "squadMarketValue": "412,650,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/1/1e/Paris_Saint-Germain_(seit_2013).gif"
+    },
+    {
+        "id":531,
+        "name": "ES Troyes AC",
+        "code": null,
+        "shortName": "Troyes",
+        "squadMarketValue": "23,500,000 €",
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/fr/b/bf/ES_Troyes_AC.svg"
+    },
+    {
+        "id":555,
+        "name": "Gazélec Ajaccio",
+        "code": null,
+        "shortName": "Ajaccio",
+        "squadMarketValue": "12,550,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/4/46/Gazélec_Ajaccio_logo.png"
+    },
+    {
+        "id":516, 
+        "name": "Olympique de Marseille",
+        "code": "MAR",
+        "shortName": "Marseille",
+        "squadMarketValue": "72,200,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg"
+    },
+    {
+        "id":514, 
+        "name": "SM Caen",
+        "code": "SMC",
+        "shortName": "Caen",
+        "squadMarketValue": "31,700,000 €",
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/fr/7/79/LogoSmc2013.png"
+    },
+    {
+        "id":522, 
+        "name": "OGC Nice",
+        "code": "NIC",
+        "shortName": "Nice",
+        "squadMarketValue": "72,500,000 €",
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/de/4/40/OGC_Nice_Logo.svg"
+    },
+    {
+        "id":548,
+        "name": "AS Monaco FC",
+        "code": "MON",
+        "shortName": "Monaco",
+        "squadMarketValue": "164,250,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg"
+    },
+    {
+        "id":543, 
+        "name": "FC Nantes",
+        "code": "NAN",
+        "shortName": "Nantes",
+        "squadMarketValue": "30,050,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/5/50/FC_Nantes_(seit_2008).svg"
+    },
+    {
+        "id":538, 
+        "name": "EA Guingamp",
+        "code": "GUI",
+        "shortName": "Guingamp",
+        "squadMarketValue": "31,200,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/ae/EA_Guingamp_Logo.svg"
+    },
+    {
+        "id":518,
+        "name": "Montpellier Hérault SC",
+        "code": "MON",
+        "shortName": "Montpellier",
+        "squadMarketValue": "31,700,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/35/HSC_Montpellier_Logo.svg"
+    },
+    {
+        "id":532,
+        "name": "Angers SCO",
+        "code": null,
+        "shortName": "Angers",
+        "squadMarketValue": "35,000,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0f/SCO_Angers.svg"
+    },
+    {
+        "id":536,
+        "name": "SC Bastia",
+        "code": "SCB",
+        "shortName": "Bastia",
+        "squadMarketValue": "27,100,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/6/69/SC_Bastia.svg"
+    },
+    {
+        "id":529, 
+        "name": "Stade Rennais FC",
+        "code": "REN",
+        "shortName": "Rennes",
+        "squadMarketValue": "67,850,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg"
+    },
+    {
+        "id":526, 
+        "name": "FC Girondins de Bordeaux",
+        "code": "BOR",
+        "shortName": "Bordeaux",
+        "squadMarketValue": "70,450,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/e/ea/Girondins_Bordeaux_Logo.svg"
+    },
+    {
+        "id":547,
+        "name": "Stade de Reims",
+        "code": "REI",
+        "shortName": "Reims",
+        "squadMarketValue": "44,700,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/9/9e/Stade_Reims_Logo.svg"
+    },
+    {
+        "id":511,
+        "name": "Toulouse FC",
+        "code": "TOU",
+        "shortName": "Toulouse",
+        "squadMarketValue": "40,550,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg"
+    },
+    {
+        "id":527,
+        "name": "AS Saint-Étienne",
+        "code": "ETI",
+        "shortName": "St. Etienne",
+        "squadMarketValue": "79,000,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/b1/AS_Saint-Etienne_(aktuell).svg"
+    },
+    {
+        "id":523,
+        "name": "Olympique Lyonnais",
+        "code": "OLY",
+        "shortName": "Lyon",
+        "squadMarketValue": "171,450,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg"
+    },
+    {
+        "id":525,
+        "name": "FC Lorient",
+        "code": "LOR",
+        "shortName": "Lorient",
+        "squadMarketValue": "40,900,000 €",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/c4/FC_Lorient_neu.png"
+    }
+]
+}
