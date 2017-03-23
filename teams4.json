@@ -2,7 +2,7 @@
 "pays":"Espagne",
 "teams": [
 {
-"id":5,
+""id"":5,
 "name": "FC Bayern München",
 "code": "FCB",
 "shortName": "Bayern",
@@ -10,7 +10,7 @@
 "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg"
 },
 {
-id:7,
+"id":7,
 "name": "Hamburger SV",
 "code": "HSV",
 "shortName": "HSV",
@@ -18,7 +18,7 @@ id:7,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg"
 },
 {
-id:16,
+"id":16,
 "name": "FC Augsburg",
 "code": "FCA",
 "shortName": "Augsburg",
@@ -26,7 +26,7 @@ id:16,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg"
 },
 {
-id:9,
+"id":9,
 "name": "Hertha BSC",
 "code": "BSC",
 "shortName": "Hertha",
@@ -34,7 +34,7 @@ id:9,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/81/Hertha_BSC_Logo_2012.svg"
 },
 {
-id:3,
+"id":3,
 "name": "Bayer Leverkusen",
 "code": "B04",
 "shortName": "Leverkusen",
@@ -42,7 +42,7 @@ id:3,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg"
 },
 {
-id:2,
+"id":2,
 "name": "TSG 1899 Hoffenheim",
 "code": "TSG",
 "shortName": "Hoffenheim",
@@ -50,7 +50,7 @@ id:2,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/de/e/e7/Logo_TSG_Hoffenheim.svg"
 },
 {
-id:55,
+"id":55,
 "name": "SV Darmstadt 98",
 "code": "DAR",
 "shortName": "Darmstadt",
@@ -58,7 +58,7 @@ id:55,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/87/Svdarmstadt98.svg"
 },
 {
-id:8,
+"id":8,
 "name": "Hannover 96",
 "code": "H96",
 "shortName": "Hannover",
@@ -66,7 +66,7 @@ id:8,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/cd/Hannover_96_Logo.svg"
 },
 {
-id:15,
+"id":15,
 "name": "1. FSV Mainz 05",
 "code": "M05",
 "shortName": "Mainz",
@@ -74,7 +74,7 @@ id:15,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0b/FSV_Mainz_05_Logo.svg"
 },
 {
-id:31,
+"id":31,
 "name": "FC Ingolstadt 04",
 "code": "FCI",
 "shortName": "Ingolstadt",
@@ -82,7 +82,7 @@ id:31,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/de/5/55/FC-Ingolstadt_logo.svg"
 },
 {
-id:12,
+"id":12,
 "name": "Werder Bremen",
 "code": "SVW",
 "shortName": "Bremen",
@@ -90,7 +90,7 @@ id:12,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
 },
 {
-id:6,
+"id":6,
 "name": "FC Schalke 04",
 "code": "S04",
 "shortName": "Schalke",
@@ -98,7 +98,7 @@ id:6,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/de/6/6d/FC_Schalke_04_Logo.svg"
 },
 {
-id:4,
+"id":4,
 "name": "Borussia Dortmund",
 "code": "BVB",
 "shortName": "Dortmund",
@@ -106,7 +106,7 @@ id:4,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg"
 },
 {
-id:18,
+"id":18,
 "name": "Bor. Mönchengladbach",
 "code": "BMG",
 "shortName": "Gladbach",
@@ -114,7 +114,7 @@ id:18,
 "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg"
 },
 {
-id:11,
+"id":11,
 "name": "VfL Wolfsburg",
 "code": "WOB",
 "shortName": "Wolfsburg",
@@ -122,7 +122,7 @@ id:11,
 "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg"
 },
 {
-id:19,
+"id":19,
 "name": "Eintracht Frankfurt",
 "code": "SGE",
 "shortName": "Frankfurt",
@@ -130,7 +130,7 @@ id:19,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg"
 },
 {
-id:10,
+"id":10,
 "name": "VfB Stuttgart",
 "code": "VFB",
 "shortName": "Stuttgart",
@@ -138,7 +138,7 @@ id:10,
 "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/a/ab/VfB_Stuttgart_Logo.svg"
 },
 {
-id:1,
+"id":1,
 "name": "1. FC Köln",
 "code": "EFFZEH",
 "shortName": "Köln",
